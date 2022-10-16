@@ -52,6 +52,9 @@ color: firebrick;
 .a  p{
 color: mediumpurple;
 }
+
+
+
 .heading{
     display: flex;
     justify-content: space-between;
@@ -121,4 +124,14 @@ transform: translateX(5px);
 }
 .link:hover p{
     font-weight: 500;
+}
+
+table{
+    display: none;
+    display: block;
+}
+
+table img{
+    height: 50px;
+    width: 50px;
 }
